@@ -1,0 +1,7 @@
+**/__pycache__
+*.pyc
+/dist/
+/.vscode/
+/build/
+/pdwind.egg-info/
+/windb.egg-info/
